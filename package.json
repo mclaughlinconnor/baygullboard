@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "gen": "ergogen samoklava.yaml"
+  },
+  "dependencies": {
+    "ergogen": "github:mclaughlinconnor/ergogen#samoklava"
+  }
+}
